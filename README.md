@@ -12,7 +12,7 @@ We can customise it as we want....
 
 
 
-Getting Started:
+**Getting Started:**
 
 The project is comprised of 2 Components:
 	a) Extracting Data From Original Database & Deleting it
