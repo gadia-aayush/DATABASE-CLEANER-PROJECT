@@ -6,9 +6,9 @@ We can customise it as we want....
 
 
 #### Getting Started:  
-The project is comprised of 2 Components:  
-	a. Extracting Data From Original Database & Deleting it  
-	b. Cleaning the Extracted Data & ReFILLING the Database with values as we want.  
+	The project is comprised of 2 Components:  
+		a. Extracting Data From Original Database & Deleting it  
+		b. Cleaning the Extracted Data & ReFILLING the Database with values as we want.  
 
 
 
@@ -35,4 +35,4 @@ The project is comprised of 2 Components:
 
 
 #### Authors:
-coded with love by AAYUSH GADIA 
+	coded with love by AAYUSH GADIA 
