@@ -5,8 +5,7 @@ In this project basically we are cleaning our Database. Actually for each time, 
 We can customise it as we want....
 
 
-**Getting Started:**
-
+**Getting Started:**  
 The project is comprised of 2 Components:  
 	a. Extracting Data From Original Database & Deleting it  
 	b. Cleaning the Extracted Data & ReFILLING the Database with values as we want.  
@@ -35,6 +34,5 @@ The project is comprised of 2 Components:
 
 
 
-**Authors:**
-
+**Authors:**  
 coded with love by AAYUSH GADIA 
