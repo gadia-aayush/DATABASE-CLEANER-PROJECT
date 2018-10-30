@@ -5,7 +5,7 @@ In this project basically we are cleaning our Database. Actually for each time, 
 We can customise it as we want....
 
 
-**Getting Started:**  
+#### Getting Started:  
 The project is comprised of 2 Components:  
 	a. Extracting Data From Original Database & Deleting it  
 	b. Cleaning the Extracted Data & ReFILLING the Database with values as we want.  
@@ -13,7 +13,7 @@ The project is comprised of 2 Components:
 
 
 
-**Prerequisites: [LINUX or Windows]**
+#### Prerequisites: [LINUX or Windows]
 
 	a) Python Scripts- 
 				  1) Python 3.x
@@ -28,11 +28,11 @@ The project is comprised of 2 Components:
 
 
 
-**STEPS:**  
+#### STEPS:
 	a) First run extractor.py. & wait for it to finish.  
 	b) Then run  cleaner.py & wait for it to finish.  
 
 
 
-**Authors:**  
+#### Authors:
 coded with love by AAYUSH GADIA 
